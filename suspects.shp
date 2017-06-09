@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Martha", "latitud": 19.435462, "longitud": -99.141223 }, "geometry": { "type": "Point", "coordinates": [ -99.141223, 19.435462 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Martha", "latitud": 19.434965, "longitud": -99.144116 }, "geometry": { "type": "Point", "coordinates": [ -99.144116, 19.434965 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Martha", "latitud": 19.435198, "longitud": -99.147657 }, "geometry": { "type": "Point", "coordinates": [ -99.147657, 19.435198 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Martha", "latitud": 19.433721, "longitud": -99.152549 }, "geometry": { "type": "Point", "coordinates": [ -99.152549, 19.433721 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Martha", "latitud": 19.431212, "longitud": -99.157806 }, "geometry": { "type": "Point", "coordinates": [ -99.157806, 19.431212 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Martha", "latitud": 19.427165, "longitud": -99.149856 }, "geometry": { "type": "Point", "coordinates": [ -99.149856, 19.427165 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Martha", "latitud": 19.426801, "longitud": -99.139674 }, "geometry": { "type": "Point", "coordinates": [ -99.139674, 19.426801 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Martha", "latitud": 19.426801, "longitud": -99.139674 }, "geometry": { "type": "Point", "coordinates": [ -99.139674, 19.426801 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "Martha", "latitud": 19.3732, "longitud": -99.155909 }, "geometry": { "type": "Point", "coordinates": [ -99.155909, 19.3732 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Beth", "latitud": 19.35347, "longitud": -99.175356 }, "geometry": { "type": "Point", "coordinates": [ -99.175356, 19.35347 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Beth", "latitud": 19.35266, "longitud": -99.162385 }, "geometry": { "type": "Point", "coordinates": [ -99.162385, 19.35266 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Beth", "latitud": 19.355363, "longitud": -99.149414 }, "geometry": { "type": "Point", "coordinates": [ -99.149414, 19.355363 ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "Beth", "latitud": 19.356406, "longitud": -99.15097 }, "geometry": { "type": "Point", "coordinates": [ -99.15097, 19.356406 ] } },
+{ "type": "Feature", "properties": { "id": 14, "name": "Beth", "latitud": 19.356406, "longitud": -99.15097 }, "geometry": { "type": "Point", "coordinates": [ -99.15097, 19.356406 ] } },
+{ "type": "Feature", "properties": { "id": 15, "name": "John", "latitud": 19.35347, "longitud": -99.175356 }, "geometry": { "type": "Point", "coordinates": [ -99.175356, 19.35347 ] } },
+{ "type": "Feature", "properties": { "id": 16, "name": "John", "latitud": 19.35266, "longitud": -99.162385 }, "geometry": { "type": "Point", "coordinates": [ -99.162385, 19.35266 ] } },
+{ "type": "Feature", "properties": { "id": 17, "name": "John", "latitud": 19.355363, "longitud": -99.149414 }, "geometry": { "type": "Point", "coordinates": [ -99.149414, 19.355363 ] } },
+{ "type": "Feature", "properties": { "id": 18, "name": "John", "latitud": 19.356406, "longitud": -99.15097 }, "geometry": { "type": "Point", "coordinates": [ -99.15097, 19.356406 ] } },
+{ "type": "Feature", "properties": { "id": 19, "name": "John", "latitud": 19.356406, "longitud": -99.15097 }, "geometry": { "type": "Point", "coordinates": [ -99.15097, 19.356406 ] } },
+{ "type": "Feature", "properties": { "id": 20, "name": "Jacob", "latitud": 19.435462, "longitud": -99.141223 }, "geometry": { "type": "Point", "coordinates": [ -99.141223, 19.435462 ] } },
+{ "type": "Feature", "properties": { "id": 21, "name": "Jacob", "latitud": 19.434965, "longitud": -99.144116 }, "geometry": { "type": "Point", "coordinates": [ -99.144116, 19.434965 ] } },
+{ "type": "Feature", "properties": { "id": 22, "name": "Jacob", "latitud": 19.435198, "longitud": -99.147657 }, "geometry": { "type": "Point", "coordinates": [ -99.147657, 19.435198 ] } },
+{ "type": "Feature", "properties": { "id": 23, "name": "Jacob", "latitud": 19.418728, "longitud": -99.138024 }, "geometry": { "type": "Point", "coordinates": [ -99.138024, 19.418728 ] } },
+{ "type": "Feature", "properties": { "id": 24, "name": "Jacob", "latitud": 19.418728, "longitud": -99.138024 }, "geometry": { "type": "Point", "coordinates": [ -99.138024, 19.418728 ] } },
+{ "type": "Feature", "properties": { "id": 25, "name": "Jacob", "latitud": 19.418728, "longitud": -99.138024 }, "geometry": { "type": "Point", "coordinates": [ -99.138024, 19.418728 ] } },
+{ "type": "Feature", "properties": { "id": 26, "name": "Jacob", "latitud": 19.423593, "longitud": -99.208554 }, "geometry": { "type": "Point", "coordinates": [ -99.208554, 19.423593 ] } }
+]
+}
